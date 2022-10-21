@@ -1,0 +1,21 @@
+
+body{
+	background:url(image0.jpg);
+	height: 80vh;
+	background-position: center;
+}
+
+body div{
+	background-color: red;
+	color:green ;
+	text-align: center;
+	margin: 80px;
+	padding: 50px;
+	border-radius: 50px;
+}
+
+div p {
+	color: white;
+	font-style: Britannic Bold ;
+	font-size: 20px;
+}
